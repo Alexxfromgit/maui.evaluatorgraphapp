@@ -1,2 +1,2 @@
-# maui.evaluatorgraphapp.alexxfromgit.github.io
+# maui.evaluatorgraphapp
 Support page for Potentiometric Titration app.
